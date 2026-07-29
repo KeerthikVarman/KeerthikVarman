@@ -32,19 +32,19 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🚀 Currently building **AI-Driven Intelligent Systems**
-- 🤖 Experienced in developing **Agentic AI Applications** using **LangChain** and **LangGraph**
-- 🧠 Skilled in **RAG Pipelines**, **Model Context Protocol (MCP)**, **LLMs**, and **Multi-Agent Systems**
-- ⚡ Developing scalable APIs using **FastAPI**, **Flask**, and **SQLite**
-- 👁️ Passionate about **Computer Vision**, **Deep Learning**, and **Generative AI**
-- 💡 Always exploring modern AI technologies and intelligent automation
-- 💬 Ask me about **Python**, **LangChain**, **LangGraph**, **FastAPI**, **LLMs**, **Computer Vision**, **RAG**, and **Agentic AI**
+- Currently building **AI-Driven Intelligent Systems**
+- Experienced in developing **Agentic AI Applications** using **LangChain** and **LangGraph**
+- Skilled in **RAG Pipelines**, **Model Context Protocol (MCP)**, **LLMs**, and **Multi-Agent Systems**
+- Developing scalable APIs using **FastAPI**, **Flask**, and **SQLite**
+- Passionate about **Computer Vision**, **Deep Learning**, and **Generative AI**
+- Always exploring modern AI technologies and intelligent automation
+- Ask me about **Python**, **LangChain**, **LangGraph**, **FastAPI**, **LLMs**, **Computer Vision**, **RAG**, and **Agentic AI**
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -56,10 +56,8 @@
 
 <div align="center">
 
-### 💡 *"Building intelligent AI solutions that solve real-world problems."*
+### *"Building intelligent AI solutions that solve real-world problems."*
 
 ### ⭐ Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=KeerthikVarman&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
