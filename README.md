@@ -54,48 +54,6 @@
 
 ---
 
-## 📫 Contact
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<a href="mailto:keerthikvarman38@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="60"/><br>
-<b>Email</b>
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.linkedin.com/in/keerthik-varman-8a65193a0/">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="60"/><br>
-<b>LinkedIn</b>
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/KeerthikVarman">
-<img src="https://img.icons8.com/ios-glyphs/90/github.png" width="60"/><br>
-<b>GitHub</b>
-</a>
-</td>
-
-<td align="center">
-<a href="https://instagram.com/varmaa_kn">
-<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60"/><br>
-<b>Instagram</b>
-</a>
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 *"Building intelligent AI solutions that solve real-world problems."*
