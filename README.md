@@ -1,22 +1,19 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=console.log(%22Hi+there!+%F0%9F%91%8B%22);AI+Engineer;Software+Developer;Agentic+AI+Developer;Welcome+to+my+GitHub!" />
-</h1>
+<div align="center">
 
----
+# Hi 👋 I'm Keerthik Varman
 
-<h2 align="center">AI Engineer & Software Developer</h2>
+### AI Engineer | Software Developer | Agentic AI Developer
 
-<p align="center">
-<b>Specializing in Multi-Modal AI Assistants, Agentic AI, Intelligent Automation, RAG Pipelines & Computer Vision.</b>
+<p>
+Building AI-powered applications using <b>LangChain</b>, <b>LangGraph</b>, <b>RAG</b>, <b>LLMs</b>, <b>FastAPI</b> and <b>Computer Vision</b>.
 </p>
 
-<p align="center">
-
+<p>
 <a href="mailto:keerthikvarman38@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/keerthik-varman-8a65193a0/">
+<a href="https://www.linkedin.com/in/keerthik-varman-8a65193a0/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -27,43 +24,45 @@
 <a href="https://instagram.com/varmaa_kn">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 </p>
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🔭 Currently working on **AI-Driven Intelligent Systems**
-- 🤖 Building **Agentic AI Applications using LangGraph & LangChain**
-- 🧠 Experienced in **RAG Pipelines, MCP Servers, LLMs & Multi-Agent Systems**
-- 📚 Exploring **Generative AI, AI Automation & Advanced AI Workflows**
-- 💬 Ask me about **Python, LangChain, LangGraph, FastAPI, Flask, NLP, LLMs, Computer Vision and AI Agents**
-- 🚀 Passionate about solving real-world problems using Artificial Intelligence
+- 🎓 M.Sc Artificial Intelligence & Machine Learning
+- 🤖 Building **Agentic AI Applications**
+- 🧠 Developing **LLM & RAG Systems**
+- 🚀 Working with **LangGraph, LangChain & MCP**
+- 💻 Backend Development using **FastAPI & Flask**
+- 👁️ Passionate about **Computer Vision & Deep Learning**
+- 📚 Always learning new AI technologies
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,sqlite,mysql,git,github,vscode,html,css,tensorflow,pytorch,opencv,&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,sqlite,mysql,git,github,vscode,html,css,javascript,tensorflow,pytorch,opencv&perline=8"/>
 
 </p>
 
 ---
 
-# 🤖 AI & GenAI Technologies
+# 🤖 AI & GenAI Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Llama-800000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP-6C63FF?style=for-the-badge"/>
@@ -72,50 +71,50 @@
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 Agentic AI Chatbot
+## 🤖 Agentic AI Chatbot
 
 - LangChain
 - LangGraph
 - Gemini
-- MCP Servers
+- MCP
 - SQLite
 - FastAPI
 - Flask
-- Memory Management
+- Conversation Memory
 
 ---
 
-### 📄 Intelligent RAG System
+## 📄 Intelligent RAG System
 
 - ChromaDB
 - Sentence Transformers
 - FastAPI
-- PDF Loader
-- Embeddings
+- PDF Processing
 - Semantic Search
+- Embeddings
 
 ---
 
-### 🛒 Automated Stock Monitoring System
+## 🛒 Automated Stock Monitoring System
 
 - YOLO
 - OpenCV
 - PyTorch
-- Computer Vision
 - Telegram Bot
-- Real-Time Shelf Monitoring
+- Computer Vision
+- Shelf Detection
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KeerthikVarman&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthikVarman&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -125,7 +124,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=KeerthikVarman&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -135,34 +134,60 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KeerthikVarman&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeerthikVarman&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 💻 Quote
+# 💼 Currently Learning
+
+- Agentic AI
+- Multi-Agent Systems
+- LangGraph
+- MCP (Model Context Protocol)
+- Advanced RAG
+- AI Automation
+- LLM Fine-Tuning
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
-> *"Artificial Intelligence isn't replacing developers. Developers using AI will replace those who don't."*
+<a href="mailto:keerthikvarman38@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/keerthik-varman-8a65193a0/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/KeerthikVarman">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+## 💡 Quote
 
-</p>
+*"Artificial Intelligence isn't replacing developers. Developers who use AI effectively will build the future."*
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
