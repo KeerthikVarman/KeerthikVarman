@@ -1,12 +1,16 @@
 <div align="center">
 
-# console.log("Hi there 👋")
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=1200&pause=200&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&lines=console.log(%22Hi+there!+%F0%9F%91%8B%22);" />
 
-## AI Engineer & Software Developer
+<br>
 
-*Specializing in Agentic AI, Multi-Modal AI, Intelligent Automation, RAG Pipelines & Computer Vision.*
+# AI Engineer & Software Developer
 
-### Connect with Me
+### *Building Agentic AI Systems, Multi-Modal AI Applications, RAG Pipelines & Intelligent Automation.*
+
+<br>
+
+## 📬 Let's Connect
 
 <a href="mailto:keerthikvarman38@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -30,13 +34,13 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently building **AI-Driven Intelligent Systems**.
-- 🤖 Experienced in developing **Agentic AI Applications** using **LangChain** and **LangGraph**.
-- 🧠 Skilled in **RAG Pipelines, MCP Servers, LLMs, Multi-Agent Systems, and Intelligent Automation**.
-- 💻 Building scalable backend applications using **FastAPI**, **Flask**, and **SQLite**.
-- 👁️ Interested in **Computer Vision**, **Deep Learning**, and **Generative AI**.
-- 📚 Continuously learning new AI technologies and frameworks.
-- 💬 Ask me about **Python, LangChain, LangGraph, FastAPI, Flask, NLP, LLMs, Computer Vision, RAG, and Agentic AI**.
+- 🚀 Currently building **AI-Driven Intelligent Systems**
+- 🤖 Experienced in developing **Agentic AI Applications** using **LangChain** and **LangGraph**
+- 🧠 Skilled in **RAG Pipelines**, **Model Context Protocol (MCP)**, **LLMs**, and **Multi-Agent Systems**
+- ⚡ Developing scalable APIs using **FastAPI**, **Flask**, and **SQLite**
+- 👁️ Passionate about **Computer Vision**, **Deep Learning**, and **Generative AI**
+- 💡 Always exploring modern AI technologies and intelligent automation
+- 💬 Ask me about **Python**, **LangChain**, **LangGraph**, **FastAPI**, **LLMs**, **Computer Vision**, **RAG**, and **Agentic AI**
 
 ---
 
@@ -44,80 +48,60 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,flask,fastapi,nodejs,sqlite,mysql,git,github,vscode,html,css,tensorflow,pytorch,opencv&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,flask,fastapi,sqlite,mysql,git,github,vscode,html,css,tensorflow,pytorch,opencv&perline=8"/>
 
 </p>
 
 ---
 
-## 🤖 AI & GenAI Technologies
+## 📫 Contact
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Llama-800000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MCP-6C63FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge"/>
-
-</p>
-
----
-
-## 📚 Currently Learning
-
-- 🧠 Agentic AI
-- 🤖 Multi-Agent Systems
-- 🔗 LangGraph
-- 📡 Model Context Protocol (MCP)
-- 📄 Advanced RAG Pipelines
-- ⚡ AI Automation
-- 🏗️ Production-ready LLM Applications
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
+<td align="center">
 <a href="mailto:keerthikvarman38@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="60"/><br>
+<b>Email</b>
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.linkedin.com/in/keerthik-varman-8a65193a0/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.icons8.com/color/96/linkedin.png" width="60"/><br>
+<b>LinkedIn</b>
 </a>
+</td>
 
+<td align="center">
 <a href="https://github.com/KeerthikVarman">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.icons8.com/ios-glyphs/90/github.png" width="60"/><br>
+<b>GitHub</b>
 </a>
+</td>
 
+<td align="center">
 <a href="https://instagram.com/varmaa_kn">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60"/><br>
+<b>Instagram</b>
 </a>
+</td>
 
-</p>
+</tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "Building intelligent AI solutions that solve real-world problems."
+### 💡 *"Building intelligent AI solutions that solve real-world problems."*
 
-⭐ Thanks for visiting my GitHub profile!
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=KeerthikVarman&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
